@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Niky.Lima\Documents\Projetos - Eclipse - NP\piloto-mobile\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+736322500.index
+2790281625.index
+3033188613.index
+1449222112.index
+3726035689.index
+3076464995.index
+2357029841.index
